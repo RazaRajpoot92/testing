@@ -7,7 +7,6 @@ function App() {
   return (
     <>
     <Cv />
-    <h1>Hi</h1>
     </>
     
   
